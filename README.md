@@ -5,7 +5,7 @@
 This project is part of the Data Science & Analytics track. It uses Excel PivotTables, slicers, and KPIs to analyze sales and product performance.
 
 ## Screenshot
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 ## Features
 - Monthly sales trends
